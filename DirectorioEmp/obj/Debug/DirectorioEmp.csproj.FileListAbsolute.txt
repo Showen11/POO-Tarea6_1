@@ -1,0 +1,8 @@
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\bin\Debug\DirectorioEmp.exe.config
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\bin\Debug\DirectorioEmp.exe
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\bin\Debug\DirectorioEmp.pdb
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.AssemblyReference.cache
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.CoreCompileInputs.cache
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\obj\Debug\DirectorioEmp.exe
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\obj\Debug\DirectorioEmp.pdb
+D:\umh\poo2\UMH-POO\Directorio\DirectorioEmp\obj\Debug\DirectorioEmp.exe.config

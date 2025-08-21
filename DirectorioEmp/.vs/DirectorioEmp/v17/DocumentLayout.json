@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|d:\\umh\\poo2\\umh-poo\\directorio\\directorioemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\clases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|solutionrelative:clases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\clases\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|solutionrelative:clases\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C17F42-1EC9-4F7E-895C-C0A204F15F3A}|DirectorioEmp.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Cargo.cs",
+              "RelativeDocumentMoniker": "Clases\\Cargo.cs",
+              "ToolTip": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Cargo.cs",
+              "RelativeToolTip": "Clases\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:09:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:09:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grado.cs",
+              "DocumentMoniker": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Grado.cs",
+              "RelativeDocumentMoniker": "Clases\\Grado.cs",
+              "ToolTip": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Clases\\Grado.cs",
+              "RelativeToolTip": "Clases\\Grado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:09:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\umh\\poo2\\UMH-POO\\Directorio\\DirectorioEmp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:57:52.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
